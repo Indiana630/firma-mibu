@@ -152,5 +152,5 @@ app.post('/generate-signature', (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+  console.log(`Servidor arrancado en http://localhost:${port}`);
 });
